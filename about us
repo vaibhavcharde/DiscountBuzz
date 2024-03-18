@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>About Us - DiscountBuzz</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <img src="logo.png" alt="Discountbuzz Logo">
+    <nav class="nav">
+      <a href="#">Home</a>
+      <a href="#">Our Services</a>
+      <a href="#">Collections</a>
+      <a href="#">Contact</a>
+      <a href="#">About Us</a>
+    </nav>
+  </header>
+  <div class="main-content">
+    <h1>About Us</h1>
+    <p>DiscountBuzz is dedicated to helping people find discounts on various products through our innovative services. Our team, led by founder Vaibhav Sharma, is passionate about making shopping more affordable and accessible for everyone.</p>
+    <p>At DiscountBuzz, we believe that everyone deserves to enjoy the benefits of discounted prices, and we work tirelessly to connect consumers with the best deals available.</p>
+    <p>Our mission is to revolutionize the way people shop by providing them with easy access to discounts and special offers across a wide range of products.</p>
+  </div>
+  <footer class="footer">
+    &copy; 2024 DiscountBuzz. All rights reserved.
+  </footer>
+</body>
+</html>

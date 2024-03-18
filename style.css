@@ -1,0 +1,66 @@
+/* Reset CSS */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  
+  body {
+    font-family: Arial, sans-serif;
+
+  }
+  
+  /* Header */
+  header {
+    /* background-image: url('/images/mainimage.png'); */
+    background-color: #ff6600;
+    background-size: cover;
+    background-position: center;
+    height: 200000px; /* Adjust as needed */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  header button {
+    padding: 10px 20px;
+    font-size: 1.2em;
+    background-color: #ff9900;
+    border: none;
+    color: #fff;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  header button:hover {
+    background-color: #ff6600;
+  }
+  
+  /* Navigation */
+  .nav {
+    background-color: #333;
+    color: #fff;
+    display: flex;
+    justify-content: space-around;
+    padding: 10px 0;
+  }
+  
+  .nav a {
+    text-decoration: none;
+    color: #fff;
+    padding: 0 10px;
+  }
+  
+  /* Main Content */
+  .main-content {
+    padding: 20px;
+  }
+  
+  /* Footer */
+  .footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+  }
+  
